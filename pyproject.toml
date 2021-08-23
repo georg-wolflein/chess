@@ -14,7 +14,7 @@ imgaug = "^0.4.0"
 numpy = "<1.19.0"
 
 [tool.poetry.dev-dependencies]
-jupyterlab = "^2.2.2"
+jupyterlab = "^2.2.10"
 autopep8 = "^1.5.4"
 pylint = "^2.5.3"
 pytest = "^6.0.1"

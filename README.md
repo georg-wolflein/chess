@@ -1,6 +1,9 @@
 # Identify chess positions using machine learning
 [![georgw777](https://circleci.com/gh/georgw777/chess.svg?style=svg)](https://app.circleci.com/pipelines/github/georgw777/chess)
 
+> [!CAUTION]
+> This repository is deprecated. Please use [chesscog](https://github.com/georg-wolflein/chesscog) instead.
+
 ## Aim
 The aim of this project is to develop a program that given an image of a chess board can recognize the position (and ultimately convert it to [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation)).
 
